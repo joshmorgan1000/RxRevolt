@@ -20,7 +20,7 @@ For a deep dive into the technical foundation, governance model, and privacy con
   Houses project documentation, including the **WHITEPAPER.md** outlining RxRevolt’s technical details and conceptual architecture.
 
 - **[chain/](./chain)**  
-  A Git submodule linking to the [RxRevoltChain](https://github.com/joshmorgan1000/RxRevoltChain.git). This custom blockchain underpins the platform’s immutability, governance, and incentive structure.
+  A Git submodule linking to the [rxrevolt-chain](https://github.com/joshmorgan1000/rxrevolt-chain.git). This custom blockchain underpins the platform’s immutability, governance, and incentive structure.
 
 - **[client/](./client)**  
   Contains submodules for various client applications:
@@ -41,10 +41,10 @@ For a deep dive into the technical foundation, governance model, and privacy con
 
 ## Contributing
 
-We welcome community contributions to improve RxRevolt. Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to get involved.
+We welcome community contributions to improve RxRevolt. Check out our [contributing guidelines](./CONTRIBUTING.md) for how to get involved.
 
 ## License
 
-This project is licensed under the terms described in the [LICENSE](./LICENSE).
+This project is licensed under the terms described in the [license](./LICENSE).
 
 ---

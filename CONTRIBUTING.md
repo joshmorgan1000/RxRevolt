@@ -118,6 +118,6 @@ As the project grows, we may set up community channels (e.g., Discord, Matrix, f
 
 ## License
 
-By contributing to RxRevolt, you agree that your contributions will be licensed under the same [License](./LICENSE) that governs this repository. If you have any questions or concerns, please reach out via an Issue before submitting your contributions.
+By contributing to RxRevolt, you agree that your contributions will be licensed under the same [license](./LICENSE) that governs this repository. If you have any questions or concerns, please reach out via an Issue before submitting your contributions.
 
 Thank you for being part of RxRevolt’s mission to empower patients and promote health cost transparency!
