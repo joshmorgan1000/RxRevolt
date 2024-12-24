@@ -6,7 +6,7 @@
 
 ## Whitepaper
 
-For a deep dive into the technical foundation, governance model, and privacy considerations of RxRevolt, see our [WHITEPAPER](./docs/WHITEPAPER.md). It covers how IPFS and the custom blockchain work together to ensure medical-bill transparency while preserving user anonymity.
+For a deep dive into the technical foundation, governance model, and privacy considerations of RxRevolt, see our [whitepaper](./docs/WHITEPAPER.md). It covers how IPFS and the custom blockchain work together to ensure medical-bill transparency while preserving user anonymity.
 
 ## Repository Structure
 
@@ -24,11 +24,11 @@ For a deep dive into the technical foundation, governance model, and privacy con
 
 - **[client/](./client)**  
   Contains submodules for various client applications:
-  - **common** ([`rxrevolt-client-common`](https://github.com/joshmorgan1000/rxrevolt-client-common.git)): Shared UI components and utilities.
   - **ios** ([`rxrevolt-ios`](https://github.com/joshmorgan1000/rxrevolt-ios.git)): Native iOS app.
   - **android** ([`rxrevolt-android`](https://github.com/joshmorgan1000/rxrevolt-android.git)): Native Android app.
   - **web** ([`rxrevolt-web`](https://github.com/joshmorgan1000/rxrevolt-web.git)): Web-based front-end client.
   - **electron** ([`rxrevolt-electron`](https://github.com/joshmorgan1000/rxrevolt-electron.git)): Desktop client that can also function as a wallet or front-end interface.
+  - **\*/common** ([`rxrevolt-client-common`](https://github.com/joshmorgan1000/rxrevolt-client-common.git)): Shared UI components and utilities.
 
 - **[scripts/](./scripts)**  
   Automation scripts for building and deploying various parts of RxRevolt:
