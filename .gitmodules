@@ -1,0 +1,15 @@
+[submodule "chain"]
+	path = chain
+	url = https://github.com/joshmorgan1000/RxRevoltChain.git
+[submodule "client/ios"]
+	path = client/ios
+	url = https://github.com/joshmorgan1000/rxrevolt-ios.git
+[submodule "client/android"]
+	path = client/android
+	url = https://github.com/joshmorgan1000/rxrevolt-android.git
+[submodule "client/web"]
+	path = client/web
+	url = https://github.com/joshmorgan1000/rxrevolt-web.git
+[submodule "client/electron"]
+	path = client/electron
+	url = https://github.com/joshmorgan1000/rxrevolt-electron.git
