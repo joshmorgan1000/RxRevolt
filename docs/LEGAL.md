@@ -64,7 +64,7 @@ Welcome to **RxRevoltChain** (the “Project”). By participating in the Projec
    We may revise or update this **LEGAL.md** document to reflect evolving legal concerns or changes in the Project’s scope. Continued use after changes implies acceptance of the revised terms.
 
 2. **Contact**  
-   If you have questions or concerns regarding these legal provisions, please reach out to the Project maintainers at [insert contact email or method].
+   If you have questions or concerns regarding these legal provisions, please reach out to the Project maintainers.
 
 ---
 
