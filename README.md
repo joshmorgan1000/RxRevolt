@@ -55,6 +55,10 @@ For a deep dive into the technical foundation, governance model, and privacy con
 - **[.github/workflows/](./.github/workflows)** (currently disabled)
   GitHub Actions CI/CD pipelines to automate building, testing, and deploying the RxRevolt ecosystem.
 
+## Legal Considerations
+
+[See here for more information.](docs/LEGAL.md)
+
 ## Contributing
 
 Please help improve RxRevolt. Check out the [contributing guidelines](./CONTRIBUTING.md) for how to get involved.
