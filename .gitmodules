@@ -10,3 +10,6 @@
 [submodule "client/electron"]
 	path = client/electron
 	url = https://github.com/joshmorgan1000/rxrevolt-electron.git
+[submodule "rxrevolt-chain"]
+	path = rxrevolt-chain
+	url = https://github.com/joshmorgan1000/rxrevolt-chain.git
