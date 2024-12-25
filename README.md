@@ -2,27 +2,27 @@
 
 ![RxRevolt Logo](./site/RxRevolt.png)
 
-**RxRevolt** is an open, free, volunary, and non-profit initiative that aims to bring transparency to healthcare costs. By leveraging **IPFS** for decentralized storage and a **custom blockchain** for incentivization and immutability, RxRevolt empowers patients to share and access anonymized medical bills without fear of censorship or data exploitation.
+**RxRevolt** is an open, free, voluntary, and non-profit initiative that aims to bring transparency to healthcare costs. By leveraging **IPFS** for decentralized storage and a **custom blockchain** for incentivization and immutability, RxRevolt empowers patients to share and access anonymized medical bills without fear of censorship or data exploitation.
 
 *This is currently a work in progress, and public participation is welcome.*
 
 ## Philosophy
 
-We are currently in a state where when we get medical care, we don't know what it is going to cost until we get the bill. It does not matter if it is a single-payer, government-run model, or if it is voluntary participation in insurance policies... it is a hidden cost that the "powers that be" want to keep hidden. We believe we can change that by making these things more transparent.
+Currently, when we get medical care, we don't know what it is going to cost until we get the bill. It does not matter if it is a single-payer, government-run model, or if it is voluntary participation in insurance policies... it is a hidden cost that the "powers that be" want to keep hidden. I believe we can change that by crowdsourcing the anonymous sharing of actual billing practices.
 
 I (or we, hopefully) would like to make every effort possible to remove any sort of financial impacts on this application. I've considered options:
 
-1. **Ask for Donations.** If I (or whoever may run this project in the future) am accepting money from some organization, that would inherently create bias.
+1. **Ask for Donations.** This won't work because if I (or whoever may run this project in the future) am accepting money from some organization, that would inherently create bias.
 
-2. **Charge Users a Small Fee.** Asking people to waive some privacy and share their bills voluntarily is already quite enough as it is.
+2. **Charge Users a Small Fee.** Asking people to share their bills voluntarily is already quite enough as it is.
 
-3. **Pay for it Myself.** This could easily end up in a situation where my provider throttles my bandwidth to the point where it becomes inoperable. If I pay for an elastic service, I could wake up one morning to a $30,000.00 bill.
+3. **Pay for it Myself.** This could easily end up in a situation where my provider throttles my bandwidth to the point where it becomes inoperable, or, I could wake up one morning to a $30,000.00 hosting bill.
 
-4. **Use a Blockchain.** As much as I hate to say it, it is necessary. Offering people imaginary internet points as an incentive to seed the network is probably the best option. I am going to do everything I can to follow "The Dogecoin Model" and make these "tokens" as worthless as possible, so at the very least nobody can try to accuse me (or other early adopters) of pre-mining. If this works, it may lead to irrational speculation on a radically inflationary, immaterial number in some computers somewhere, but if that is the case then so be it.
+4. **Use a Blockchain.** As much as I hate to say it, it is necessary. Offering people imaginary internet points as an incentive to seed the data for the network is probably the best option. I am going to do everything I can to follow "The Dogecoin Model" and make these "tokens" as worthless as possible. That won't change the fact that if this works, it may lead to irrational speculation on a radically inflationary, immaterial number in some computers somewhere. If that is the case then so be it.
 
 ## Whitepaper
 
-For a deep dive into the technical foundation, governance model, and privacy considerations of RxRevolt, see our [whitepaper](./docs/WHITEPAPER.md). It covers how IPFS and the custom blockchain work together to ensure medical-bill transparency while preserving user anonymity.
+For a deep dive into the technical foundation, governance model, and privacy considerations of RxRevolt, see the [whitepaper](./docs/WHITEPAPER.md). It covers how IPFS and the custom blockchain work together to ensure medical-bill transparency while preserving user anonymity.
 
 ## Repository Structure
 
@@ -57,7 +57,7 @@ For a deep dive into the technical foundation, governance model, and privacy con
 
 ## Contributing
 
-Please help improve RxRevolt. Check out our [contributing guidelines](./CONTRIBUTING.md) for how to get involved.
+Please help improve RxRevolt. Check out the [contributing guidelines](./CONTRIBUTING.md) for how to get involved.
 
 ## License
 
