@@ -2,7 +2,11 @@
 
 ![RxRevolt Logo](./site/RxRevolt.png)
 
-**RxRevolt** is an open, free, non-profit, and privacy-focused initiative that aims to bring transparency to healthcare costs. By leveraging **IPFS** for decentralized storage and a **custom blockchain** for incentivization and immutability, RxRevolt empowers patients to share and access anonymized medical bills without fear of censorship or data exploitation.
+**RxRevolt** is an open, free, volunary, and non-profit initiative that aims to bring transparency to healthcare costs. By leveraging **IPFS** for decentralized storage and a **custom blockchain** for incentivization and immutability, RxRevolt empowers patients to share and access anonymized medical bills without fear of censorship or data exploitation.
+
+## Philosophy
+
+We are currently in a state where none of us know what the cost of our medical care is until we get the bill. It does not matter if it is a single-payer, government-run model, or if it is voluntary participation in insurance policies... it is a hidden cost that the "powers that be" want to keep hidden.
 
 I (or we, hopefully) would like to make every effort possible to remove money from this equation. I've considered options:
 
@@ -13,6 +17,9 @@ I (or we, hopefully) would like to make every effort possible to remove money fr
 3. **Pay for it Myself.** This could easily end up in a situation where my provider throttles my bandwidth to the point where it becomes inoperable. If I pay for an elastic service, I could wake up one morning to a $30,000.00 bill.
 
 4. **Use a Blockchain.** As much as I hate to say it, it is necessary. Offering people imaginary internet points as an incentive to seed the network is probably the best option. I am going to do everything I can to follow "The Dogecoin Model" and make these "tokens" as worthless as possible, so at the very least nobody can try to accuse me (or other early adopters) of pre-mining. If this works, it may lead to irrational speculation on a radically inflationary, immaterial number in some computers somewhere, then so be it.
+
+  - This has a lot of legal benefits. I could make sure that there are 18 disclaimers people have to "accept", making clear that even though their name is not in the data, it is still legally considered "Personally Identifiable Information". If I were to host it somewhere, those who are gaming the system would still try to come after me no matter how many hoops I make the user jump through.
+  - **Our power over this can only be in numbers.** If the data is split up across thousands of nodes, then no single person is "sharing" it. If 2 million of us are participating, it will be game over to any of the con-artists in the industry that are taking advantage of us, no matter how many lawyers or politicians they're friends with.
 
 ## Whitepaper
 
