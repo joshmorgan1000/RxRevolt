@@ -1,0 +1,8 @@
+[submodule "android"]
+	branch = main
+[submodule "electron"]
+	branch = main
+[submodule "ios"]
+	branch = main
+[submodule "web"]
+	branch = main

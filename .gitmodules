@@ -13,3 +13,4 @@
 [submodule "rxrevolt-chain"]
 	path = rxrevolt-chain
 	url = https://github.com/joshmorgan1000/rxrevolt-chain.git
+	branch = main
