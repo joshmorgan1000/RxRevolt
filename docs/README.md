@@ -8,4 +8,4 @@ The [whitepaper](WHITEPAPER.md) explains detailed technical information about ho
 
 ## Legal
 
-There are legal concerns that will be fully addressed.
+There are [legal concerns](LEGAL.md) that are addressed.
