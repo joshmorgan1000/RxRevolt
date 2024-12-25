@@ -2,7 +2,7 @@
 
 ## Disclaimer & Data Privacy Notice
 
-Welcome to **RxRevoltChain** (the “Project”). By participating in the Project—whether by submitting healthcare cost documents, pinning data to IPFS, or otherwise engaging with the network—**you acknowledge and accept the following legal considerations**.
+Welcome to **RxRevolt** (the “Project”). By participating in the Project—whether by submitting healthcare cost documents, pinning data to IPFS, or otherwise engaging with the network—**you acknowledge and accept the following legal considerations**.
 
 ---
 
