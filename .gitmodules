@@ -1,5 +1,5 @@
 [submodule "chain"]
-	path = chain
+	path = chain/
 	url = https://github.com/joshmorgan1000/rxrevolt-chain.git
 [submodule "client/ios"]
 	path = client/ios
